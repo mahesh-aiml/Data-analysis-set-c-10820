@@ -15,7 +15,7 @@
 </p>
 
 ---
-** Explanation Vedio link** 
+** Explanation Video link** 
 https://drive.google.com/file/d/1pEEGEAXpb_bbzNgIb5LGzMK1QHCScrZp/view?usp=drive_link
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
